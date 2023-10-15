@@ -1,2 +1,2 @@
 # SEM-3
-SEM-3 material
+Find all SEM-3 experiments and reference books in this repository
